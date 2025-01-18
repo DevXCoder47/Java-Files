@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="com.nikijv.javafiles:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/com_nikijv_javafiles_jar</output-path>
+    <root id="archive" name="com.nikijv.javafiles.jar">
+      <element id="module-output" name="com.nikijv.javafiles" />
+    </root>
+  </artifact>
+</component>
